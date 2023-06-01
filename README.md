@@ -6,9 +6,10 @@ I'm Danilo a Programming student in UTN(National Tecnological University) from A
 
 ## Languajes and Tools 📚
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilovukosich&layout=donut)](https://github.com/danilovukosich/github-readme-stats)
 
 
-##Contact
+## Contact
 
 <a href="https://linkedin.com/in/danilovukosich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahupazos" height="30" width="40" /></a>
 
